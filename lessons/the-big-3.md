@@ -6,6 +6,7 @@ description: "The 3 big languages used on the internet"
 section: "The Internet"
 ---
 
-This is page three.
+The internet spits out code for your browser to see. And the languages the use are HTML, CSS, and Javascript.
 
-I think it is a good page.
+
+
