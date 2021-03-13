@@ -37,9 +37,9 @@ module.exports = {
               linkImagesToOriginal: true,
               sizeByPixelDensity: false
             }
-          }
+          },
         ]
       }
-    }
+    },
   ]
 };
