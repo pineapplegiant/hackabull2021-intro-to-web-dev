@@ -1,4 +1,5 @@
 path,title,order,section,description
-"/intro","Introduction","1A","The First Section","this is the description that will show up in social shares"
+"/intro","Intro","1A","Introduction","Hello frens 👋"
+"/why","Why this course?","1B","Introduction","Motivation for this course"
 "/page-2","Page 2","2A","The Second Section","The second page"
 "/page-3","Page 3","2B","The Second Section","The third page"

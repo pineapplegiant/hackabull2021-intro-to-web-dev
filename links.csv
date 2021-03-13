@@ -1,4 +1,5 @@
-order,title,link0,link1,link2
-1A,Introduction,https://www.frontendmasters.com,https://twitter.com/holtbt,https://btholt.github.io/complete-intro-to-containers/
-2A,Page 2,https://en.wikipedia.org/wiki/2,,
-2B,Page 3,,,
+order,title,link0,link1,link2,link3,link4
+1A,Intro,https://twitter.com/pineapplegiant,https://github.com/pineapplegiant,https://www.linkedin.com/in/pineapplegiant/,https://www.instagram.com/pineapplegiant/,https://pineapplegiant.com/
+1B,Why this course?,,,,,
+2A,Page 2,https://en.wikipedia.org/wiki/2,,,,
+2B,Page 3,,,,,
