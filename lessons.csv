@@ -1,5 +1,9 @@
-path,title,order,section,description
-"/intro","Intro","1A","Introduction","Hello frens 👋"
-"/why","Why this course?","1B","Introduction","Motivation for this course"
-"/page-2","Page 2","2A","The Second Section","The second page"
-"/page-3","Page 3","2B","The Second Section","The third page"
+path,title,order,description,section
+"/intro","Intro","1A","Hello frens 👋","Introduction"
+"/why","Why this course?","1B","Motivation for this course","Introduction"
+"/tools","Tools","1C","Tools needed in your journey into code mastery","Introduction"
+"/the-world-wide-web","The World Wide Web","2A","Basically how the internet basically works basically","The Internet"
+"/the-big-3","The Big 3","2B","The 3 big languages used on the internet","The Internet"
+"/hyper-text-markup-language","HyperText Markup Language (HTML)","3A","The basics of HTML","Let's code!"
+"/cascading-style-sheets","Cascading Style Sheets (CSS)","3B","The basics of CSS","Let's code!"
+"/javascript","Javascript (JS)","3C","The basics of Javascript","Let's code!"

@@ -1,5 +1,9 @@
-order,title,link0,link1,link2,link3,link4
-1A,Intro,https://twitter.com/pineapplegiant,https://github.com/pineapplegiant,https://www.linkedin.com/in/pineapplegiant/,https://www.instagram.com/pineapplegiant/,https://pineapplegiant.com/
-1B,Why this course?,,,,,
-2A,Page 2,https://en.wikipedia.org/wiki/2,,,,
-2B,Page 3,,,,,
+order,title,link0,link1,link2,link3,link4,link5,link6,link7,link8,link9,link10,link11,link12
+1A,Intro,https://twitter.com/pineapplegiant,https://github.com/pineapplegiant,https://www.linkedin.com/in/pineapplegiant/,https://www.instagram.com/pineapplegiant/,https://pineapplegiant.com/,,,,,,,,
+1B,Why this course?,,,,,,,,,,,,,
+1C,Tools,https://www.mozilla.org/en-US/firefox/new/,https://www.google.com/chrome/,https://docs.microsoft.com/en-us/lifecycle/announcements/internet-explorer-11-support-end-dates,https://code.visualstudio.com/download,https://www.sublimetext.com/,https://atom.io/,https://imgs.xkcd.com/comics/real_programmers.png,https://www.jetbrains.com/webstorm/,https://www.vim.org/,https://www.gnu.org/software/emacs/,https://developer.mozilla.org/en-US/,https://css-tricks.com/,https://www.conceptatech.com/blog/difference-front-end-back-end-development#:~:text=The%20term%20%E2%80%9Cfront%2Dend%E2%80%9D,deliver%20information%20to%20the%20user.
+2A,The World Wide Web,https://github.com/lionbytes/How-The-Internet-Works-Infographic,,,,,,,,,,,,
+2B,The Big 3,,,,,,,,,,,,,
+3A,HyperText Markup Language (HTML),,,,,,,,,,,,,
+3B,Cascading Style Sheets (CSS),,,,,,,,,,,,,
+3C,Javascript (JS),,,,,,,,,,,,,
