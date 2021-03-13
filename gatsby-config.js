@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: "Hackabull 2021 Intro to web dev",
+    title: "Hackabull 2021 Intro to Web Dev",
     subtitle: "",
     description:
       "A gentle introduction to coding for the web",
     keywords: [
-      "Hackabull",
       "Hackathon",
+      "Hackabull",
       "Web Development",
       "Code"
     ]
@@ -29,6 +29,7 @@ module.exports = {
           `gatsby-remark-autolink-headers`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-prismjs`,
+          `gatsby-plugin-sharp`,
           {
             resolve: `gatsby-remark-images`,
             options: {
