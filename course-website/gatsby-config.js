@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: "Hackabull 2021 Intro to web dev",
-    subtitle: "",
+    title: "Gatsby Starter Course",
+    subtitle: "For making great content",
     description:
-      "A gentle introduction to coding for the web",
+      "This is the description that will show up when people share as well as on search engines",
     keywords: [
-      "Hackabull",
-      "Hackathon",
-      "Web Development",
-      "Code"
+      "this is",
+      "a list of keywords and phrase",
+      "that search engines",
+      "will index your page for"
     ]
   },
-  pathPrefix: "/hackabull2021-intro-to-web-dev",
+  //pathPrefix: "/my-repo-name", // if you're using GitHub Pages, put the name of the repo here with a leading slash
   plugins: [
     `gatsby-plugin-layout`,
     {
