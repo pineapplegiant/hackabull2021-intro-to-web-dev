@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Hackabull 2021 Intro to Web Dev",
-    subtitle: "",
+    subtitle: "by ya boi g-mo",
     description:
       "A gentle introduction to coding for the web",
     keywords: [
