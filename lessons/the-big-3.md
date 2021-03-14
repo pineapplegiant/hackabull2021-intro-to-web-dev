@@ -7,6 +7,3 @@ section: "The Internet"
 ---
 
 The internet spits out code for your browser to see. And the languages the use are HTML, CSS, and Javascript.
-
-
-
